@@ -41,7 +41,7 @@ Cloudflare Access is a core component of Cloudflare’s Zero Trust platform, pro
 - Policies can be configured via the **Cloudflare Dashboard** or **API calls**.
 - **Lacks advanced ABAC (Attribute-Based Access Control)** which would provide more granular control over permissions.
 
----
+
 
 ### 4. Password Policies
 - Cloudflare Access emphasizes a **passwordless approach**, focusing on SSO and MFA.
