@@ -70,7 +70,6 @@ Cloudflare Access is a core component of Cloudflare’s Zero Trust platform, pro
 | **Password Policies**  | Managed via external IdPs | Customizable policies, passwordless options | Extensive policy options | Customizable policies, passwordless options |
 | **Zero Trust**         | Comprehensive, integrated with network security features | Comprehensive, but separate from network services | Integrated with Microsoft ecosystem | Comprehensive, enterprise-grade policies |
 
----
 
 ##  Recommendations for Improvement
 
@@ -87,8 +86,5 @@ Cloudflare Access is a core component of Cloudflare’s Zero Trust platform, pro
    - Expand documentation with clearer, step-by-step guides for configuring complex IAM setups.
    - Provide enhanced **troubleshooting resources** to support customers facing integration issues.
 
----
 
-## Visual Diagrams
 
-### Diagram 1: **Cloudflare Zero Trust Flow**
